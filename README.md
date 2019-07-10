@@ -8,6 +8,7 @@ MyCourse is a integrated demo built with Spring Boot and Vue.
 - i18n
 - mobile adaptation with vuex
 - classic web theme
+- performance monitoring
 
 **Backend**
 - tokens&roles authorization with Spring Security
