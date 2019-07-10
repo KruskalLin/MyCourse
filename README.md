@@ -1,6 +1,8 @@
 # MyCourse
 MyCourse is a integrated demo built with Spring Boot and Vue.
 
+Link project [Trust](https://github.com/NJU-Trust/TrustFront).
+
 ## Features
 **Frontend**
 - token&roles authorization with axios&vuex
