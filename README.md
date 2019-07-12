@@ -1,3 +1,5 @@
+Note: I extract the main part to another repository.
+
 # MyCourse
 MyCourse is a integrated demo built with Spring Boot and Vue.
 
